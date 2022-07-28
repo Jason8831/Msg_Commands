@@ -1,0 +1,5 @@
+Usage: "§f[§l§4ERROR§r§f]: vous devez faire /msg [player]"
+NoOnlinePlayer: "§f[§l§4ERROR§r§f]: le joueur sélectionner n'est pas conecter"
+ConfirmeSend: "§f[§l§4MSG§r§f]: votre message a bien été envoyer a {target}" #VARIABLE {target}
+MessageFormatTarget: "§f[§l§c{player} §r§f=> §l§4{target} §f> §r§f{message}" #VARIABLE {player} {target}
+ViewMessageStaff: "§f[§l§4STAFF§r§f]: §l§4{target} §r§f§r§fviens de recevoir 1 message de §l§4{sender} => {message}" #VARIABLE {sender} {target} {message}

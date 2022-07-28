@@ -1,0 +1,8 @@
+name: MessageCommand
+version: 1.0.0
+api: 4.0.0
+main: Jason8831\msg\Main
+author: Jason8831
+permissions:
+  staff.viewmsg:
+    default: op
